@@ -1,0 +1,20 @@
+{
+    "name": "digital-nature/action-scheduler-utilities",
+    "description": "Provides utilities for use with WordPress action scheduler",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "DigitalNature\\ActionSchedulerUtilities\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Gareth Midwood",
+            "email": "gareth@digital-nature.co.uk"
+        }
+    ],
+    "require": {
+        "php": ">=7.4"
+    }
+}
